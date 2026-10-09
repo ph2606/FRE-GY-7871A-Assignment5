@@ -1,0 +1,21 @@
+# CPU PyTorch wheel source; all packages below are exact observed versions.
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.11.4
+scikit-learn==1.5.0
+statsmodels==0.14.4
+matplotlib==3.9.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+vaderSentiment==3.3.2
+nbformat==5.10.4
+nbclient==0.10.2
+ipykernel==6.29.5
+pytest==9.0.2
+PyMuPDF==1.27.1
+langdetect==1.0.9
+transformers==4.44.2
+torch==2.3.0
+huggingface-hub==0.36.2
+safetensors==0.8.0
